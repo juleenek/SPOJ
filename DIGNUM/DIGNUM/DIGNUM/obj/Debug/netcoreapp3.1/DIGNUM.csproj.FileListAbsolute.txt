@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\bin\Debug\netcoreapp3.1\DIGNUM.exe
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\bin\Debug\netcoreapp3.1\DIGNUM.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\bin\Debug\netcoreapp3.1\DIGNUM.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\bin\Debug\netcoreapp3.1\DIGNUM.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\bin\Debug\netcoreapp3.1\DIGNUM.dll
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\bin\Debug\netcoreapp3.1\DIGNUM.pdb
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\obj\Debug\netcoreapp3.1\DIGNUM.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\obj\Debug\netcoreapp3.1\DIGNUM.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\obj\Debug\netcoreapp3.1\DIGNUM.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\obj\Debug\netcoreapp3.1\DIGNUM.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\obj\Debug\netcoreapp3.1\DIGNUM.dll
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\obj\Debug\netcoreapp3.1\DIGNUM.pdb
+\\Mac\Home\Desktop\Code\SPOJ\DIGNUM\DIGNUM\DIGNUM\obj\Debug\netcoreapp3.1\DIGNUM.genruntimeconfig.cache
