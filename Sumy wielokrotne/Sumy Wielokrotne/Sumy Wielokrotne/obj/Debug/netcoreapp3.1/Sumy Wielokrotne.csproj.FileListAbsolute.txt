@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\bin\Debug\netcoreapp3.1\Sumy Wielokrotne.exe
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\bin\Debug\netcoreapp3.1\Sumy Wielokrotne.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\bin\Debug\netcoreapp3.1\Sumy Wielokrotne.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\bin\Debug\netcoreapp3.1\Sumy Wielokrotne.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\bin\Debug\netcoreapp3.1\Sumy Wielokrotne.dll
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\bin\Debug\netcoreapp3.1\Sumy Wielokrotne.pdb
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\obj\Debug\netcoreapp3.1\Sumy Wielokrotne.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\obj\Debug\netcoreapp3.1\Sumy Wielokrotne.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\obj\Debug\netcoreapp3.1\Sumy Wielokrotne.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\obj\Debug\netcoreapp3.1\Sumy Wielokrotne.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\obj\Debug\netcoreapp3.1\Sumy Wielokrotne.dll
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\obj\Debug\netcoreapp3.1\Sumy Wielokrotne.pdb
+\\Mac\Home\Desktop\Code\SPOJ\Sumy wielokrotne\Sumy Wielokrotne\Sumy Wielokrotne\obj\Debug\netcoreapp3.1\Sumy Wielokrotne.genruntimeconfig.cache

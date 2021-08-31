@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.exe
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.dll
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\bin\Debug\netcoreapp3.1\SBANK.pdb
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.dll
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.pdb
+\\Mac\Home\Desktop\Code\SPOJ\SBANK\SBANK\SBANK\obj\Debug\netcoreapp3.1\SBANK.genruntimeconfig.cache

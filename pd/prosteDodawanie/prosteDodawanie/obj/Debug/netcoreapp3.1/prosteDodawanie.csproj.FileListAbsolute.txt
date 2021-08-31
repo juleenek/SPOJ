@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\obj\Debug\netcoreapp3.1\prosteDodawanie.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\obj\Debug\netcoreapp3.1\prosteDodawanie.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\obj\Debug\netcoreapp3.1\prosteDodawanie.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\obj\Debug\netcoreapp3.1\prosteDodawanie.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\bin\Debug\netcoreapp3.1\prosteDodawanie.exe
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\bin\Debug\netcoreapp3.1\prosteDodawanie.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\bin\Debug\netcoreapp3.1\prosteDodawanie.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\bin\Debug\netcoreapp3.1\prosteDodawanie.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\bin\Debug\netcoreapp3.1\prosteDodawanie.dll
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\bin\Debug\netcoreapp3.1\prosteDodawanie.pdb
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\obj\Debug\netcoreapp3.1\prosteDodawanie.dll
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\obj\Debug\netcoreapp3.1\prosteDodawanie.pdb
+\\Mac\Home\Desktop\Code\SPOJ\pd\prosteDodawanie\prosteDodawanie\obj\Debug\netcoreapp3.1\prosteDodawanie.genruntimeconfig.cache

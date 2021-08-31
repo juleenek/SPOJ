@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\bin\Debug\netcoreapp3.1\dodawanie.exe
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\bin\Debug\netcoreapp3.1\dodawanie.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\bin\Debug\netcoreapp3.1\dodawanie.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\bin\Debug\netcoreapp3.1\dodawanie.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\bin\Debug\netcoreapp3.1\dodawanie.dll
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\bin\Debug\netcoreapp3.1\dodawanie.pdb
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\obj\Debug\netcoreapp3.1\dodawanie.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\obj\Debug\netcoreapp3.1\dodawanie.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\obj\Debug\netcoreapp3.1\dodawanie.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\obj\Debug\netcoreapp3.1\dodawanie.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\obj\Debug\netcoreapp3.1\dodawanie.dll
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\obj\Debug\netcoreapp3.1\dodawanie.pdb
+\\Mac\Home\Desktop\Code\SPOJ\jsumduze - dodawanie\dodawanie\dodawanie\obj\Debug\netcoreapp3.1\dodawanie.genruntimeconfig.cache

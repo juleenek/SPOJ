@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\bin\Debug\netcoreapp3.1\SMPSEQ9.exe
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\bin\Debug\netcoreapp3.1\SMPSEQ9.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\bin\Debug\netcoreapp3.1\SMPSEQ9.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\bin\Debug\netcoreapp3.1\SMPSEQ9.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\bin\Debug\netcoreapp3.1\SMPSEQ9.dll
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\bin\Debug\netcoreapp3.1\SMPSEQ9.pdb
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\obj\Debug\netcoreapp3.1\SMPSEQ9.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\obj\Debug\netcoreapp3.1\SMPSEQ9.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\obj\Debug\netcoreapp3.1\SMPSEQ9.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\obj\Debug\netcoreapp3.1\SMPSEQ9.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\obj\Debug\netcoreapp3.1\SMPSEQ9.dll
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\obj\Debug\netcoreapp3.1\SMPSEQ9.pdb
+\\Mac\Home\Desktop\Code\SPOJ\SMPSEQ9\SMPSEQ9\SMPSEQ9\obj\Debug\netcoreapp3.1\SMPSEQ9.genruntimeconfig.cache

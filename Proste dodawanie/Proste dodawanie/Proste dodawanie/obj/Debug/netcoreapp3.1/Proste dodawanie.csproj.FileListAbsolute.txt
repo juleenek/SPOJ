@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\obj\Debug\netcoreapp3.1\Proste dodawanie.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\obj\Debug\netcoreapp3.1\Proste dodawanie.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\obj\Debug\netcoreapp3.1\Proste dodawanie.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\obj\Debug\netcoreapp3.1\Proste dodawanie.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\bin\Debug\netcoreapp3.1\Proste dodawanie.exe
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\bin\Debug\netcoreapp3.1\Proste dodawanie.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\bin\Debug\netcoreapp3.1\Proste dodawanie.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\bin\Debug\netcoreapp3.1\Proste dodawanie.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\bin\Debug\netcoreapp3.1\Proste dodawanie.dll
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\bin\Debug\netcoreapp3.1\Proste dodawanie.pdb
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\obj\Debug\netcoreapp3.1\Proste dodawanie.dll
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\obj\Debug\netcoreapp3.1\Proste dodawanie.pdb
+\\Mac\Home\Desktop\Code\SPOJ\Proste dodawanie\Proste dodawanie\Proste dodawanie\obj\Debug\netcoreapp3.1\Proste dodawanie.genruntimeconfig.cache

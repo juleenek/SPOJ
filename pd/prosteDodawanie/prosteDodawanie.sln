@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prosteDodawanie", "prosteDodawanie\prosteDodawanie.csproj", "{D06CAD36-85AB-4C2B-9783-E9BD00217AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06CAD36-85AB-4C2B-9783-E9BD00217AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06CAD36-85AB-4C2B-9783-E9BD00217AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06CAD36-85AB-4C2B-9783-E9BD00217AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06CAD36-85AB-4C2B-9783-E9BD00217AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76147606-3506-4C07-8A31-4D07FE267FF2}
+	EndGlobalSection
+EndGlobal

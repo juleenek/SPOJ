@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\bin\Debug\netcoreapp3.1\HFLOOR.exe
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\bin\Debug\netcoreapp3.1\HFLOOR.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\bin\Debug\netcoreapp3.1\HFLOOR.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\bin\Debug\netcoreapp3.1\HFLOOR.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\bin\Debug\netcoreapp3.1\HFLOOR.dll
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\bin\Debug\netcoreapp3.1\HFLOOR.pdb
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\obj\Debug\netcoreapp3.1\HFLOOR.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\obj\Debug\netcoreapp3.1\HFLOOR.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\obj\Debug\netcoreapp3.1\HFLOOR.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\obj\Debug\netcoreapp3.1\HFLOOR.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\obj\Debug\netcoreapp3.1\HFLOOR.dll
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\obj\Debug\netcoreapp3.1\HFLOOR.pdb
+\\Mac\Home\Desktop\Code\SPOJ\HFLOOR\HFLOOR\HFLOOR\obj\Debug\netcoreapp3.1\HFLOOR.genruntimeconfig.cache

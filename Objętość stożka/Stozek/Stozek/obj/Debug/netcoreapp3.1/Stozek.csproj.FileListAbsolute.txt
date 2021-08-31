@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\bin\Debug\netcoreapp3.1\Stozek.exe
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\bin\Debug\netcoreapp3.1\Stozek.deps.json
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\bin\Debug\netcoreapp3.1\Stozek.runtimeconfig.json
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\bin\Debug\netcoreapp3.1\Stozek.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\bin\Debug\netcoreapp3.1\Stozek.dll
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\bin\Debug\netcoreapp3.1\Stozek.pdb
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\obj\Debug\netcoreapp3.1\Stozek.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\obj\Debug\netcoreapp3.1\Stozek.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\obj\Debug\netcoreapp3.1\Stozek.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\obj\Debug\netcoreapp3.1\Stozek.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\obj\Debug\netcoreapp3.1\Stozek.dll
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\obj\Debug\netcoreapp3.1\Stozek.pdb
+\\Mac\Home\Desktop\Code\SPOJ\Objętość stożka\Stozek\Stozek\obj\Debug\netcoreapp3.1\Stozek.genruntimeconfig.cache
